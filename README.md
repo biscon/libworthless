@@ -1,0 +1,2 @@
+# libworthless
+Demo lib
